@@ -17,7 +17,7 @@
 ---
 
 ## 🛠️ Linguagens e Ferramentas
-- **Linguagens:** C, Python  
+- **Linguagens:** C, C++, Python  
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Sistemas Operacionais:** Linux, Windows  
 
