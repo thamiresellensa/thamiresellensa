@@ -7,15 +7,6 @@
 
 ---
 
-## 🚀 O que estou estudando atualmente
-- ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES
-- CÁLCULO 1
-- DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR
-- ENGENHARIA E AMBIENTE
-- INTRODUÇÃO À ENGENHARIA
-
----
-
 ## 🛠️ Linguagens e Ferramentas
 - **Linguagens:** C, C++, Python  
 - **Ferramentas:** Git, GitHub, VS Code  
