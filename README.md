@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Linguagens e Ferramentas
-- **Linguagens:** C, C++, Python  
+- **Linguagens:** C, C++ 
 - **Ferramentas:** Git, GitHub, VS Code  
 - **Sistemas Operacionais:** Linux, Windows  
 
